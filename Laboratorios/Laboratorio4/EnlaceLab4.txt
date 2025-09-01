@@ -1,4 +1,0 @@
-
-DIRECCIÓN DE GITHUB DE LAB-04 GANs , FASHIOnMNIST
-
-Link: https://github.com/David-Code404/Inteligencia-Artificial-2/tree/main/Laboratorios/Laboratorio4
