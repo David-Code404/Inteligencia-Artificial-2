@@ -1,0 +1,35 @@
+Gráficas útiles para entrenamiento
+
+Loss vs. Epochs (entrenamiento y validación)
+
+Te muestra si el modelo realmente está aprendiendo o si hay overfitting.
+
+Accuracy vs. Epochs (entrenamiento y validación)
+
+Para ver si el accuracy mejora con cada época y si hay mucha diferencia entre train y test.
+
+📈 Métricas adicionales para evaluar el modelo
+
+Matriz de confusión
+
+Te enseña en qué clases se equivoca más el modelo.
+
+Muy útil porque tu dataset es de 5 clases (puedes ver si confunde “Anillos” con “Monedas”, por ejemplo).
+
+Classification Report
+
+Te da precision, recall, F1-score por clase.
+
+Ideal si algunas clases tienen menos imágenes (como Anillos-Min).
+
+Curvas de Precision-Recall / ROC (por clase)
+
+Si quieres un análisis más detallado de cada clase.
+
+📷 Visualizaciones de predicciones
+
+Ejemplos de imágenes con predicciones correctas e incorrectas
+
+Muestra imágenes del dataset junto con la predicción y la etiqueta real.
+
+Te ayuda a entender qué tipo de errores comete tu modelo.
